@@ -3,7 +3,7 @@
  * Mime - Comprehensive MIME type mapping API for PHP.
  *
  * @author      Rafael García <rafaelgarcia@profesionaldiacronos.com>
- * @copyright   2011 Rafael García
+ * @copyright   2012 Rafael García
  * @link        http://mime.profesionaldiacronos.com
  * @license     http://mime.profesionaldiacronos.com/license
  * @version     1.0.0
