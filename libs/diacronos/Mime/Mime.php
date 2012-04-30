@@ -4,8 +4,8 @@
  *
  * @author      Rafael García <rafaelgarcia@profesionaldiacronos.com>
  * @copyright   2011 Rafael García
- * @link        http://phpsprockets.profesionaldiacronos.com
- * @license     http://phpsprockets.profesionaldiacronos.com/license
+ * @link        http://mime.profesionaldiacronos.com
+ * @license     http://mime.profesionaldiacronos.com/license
  * @version     1.0.0
  * @package     Mime
  *

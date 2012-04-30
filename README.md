@@ -1,4 +1,4 @@
-# mime
+# Mime
 
 Comprehensive MIME type mapping API. Can include all 600+ types and 800+ extensions defined by the Apache project and others.
 
@@ -18,7 +18,7 @@ Before use must be load the extensions map, in my case, like following:
 ## API - Queries
 
 ### Mime::lookup( string $path, mixed $fallback )
-Get the mime type associated with a file. Performs a case-insensitive lookup using the extension in `path` (the substring after the last '/' or '.').  E.g.
+Get the mime type associated with a file. Performs a case-insensitive lookup using the extension in `$path` (the substring after the last '/' or '.').  E.g.
 
     Mime::lookup('/path/to/file.txt');         // => 'text/plain'
     Mime::lookup('file.txt');                  // => 'text/plain'
